@@ -1,8 +1,5 @@
-# Foundation validation
+# Validation responsibilities
 
-Recorded on 2026-11-05 for this generated foundation:
+This shell was derived from [project-boilerplate-mobile-flutter](https://github.com/liberusoftware/project-boilerplate-mobile-flutter) at `c88312adadb2bdbc85b9b20be36cbc3a711e9a64`. The foundation's checks cover its build setup and public shell; product-specific integration remains unimplemented. See the foundation's validation record for its actual results.
 
-- Passed: `flutter analyze`.
-- Passed: `flutter test (1 test)`.
-
-These checks cover the public shell and build setup. They do not establish implemented business workflows, API integration, native signing, platform distribution or physical-device behavior. Run the same checks after changes and record product-specific journey evidence when implemented.
+Run the commands in README.md after installing from locks. Native targets require their documented SDKs and operating systems. Record product-specific API and journey results when those features exist; do not claim signed builds or device tests from foundation analysis alone.

@@ -1,9 +1,9 @@
 {
-  "project": "boilerplate",
+  "project": "genealogy",
   "presentation": "mobile-flutter",
   "foundation": "project-boilerplate-mobile-flutter",
-  "foundationCommit": null,
-  "documentation": "https://github.com/liberusoftware/documentation/blob/main/projects/boilerplate/README.md",
+  "foundationCommit": "c88312adadb2bdbc85b9b20be36cbc3a711e9a64",
+  "documentation": "https://github.com/liberusoftware/documentation/blob/main/projects/genealogy/README.md",
   "status": "skeleton",
   "enabledModules": []
 }
